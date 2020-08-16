@@ -7,8 +7,8 @@ The valid structure listed below.
 XML containers will be taken from ./data directory
 Extracted files will be stored in ./files directory
 
-Command line example:
-xmkDE.py [xml_file_01.xml [xml_file_02.xml ...[xml_file_nn.xml]]]
+Command line example:<br>
+xmlDE.py [xml_file_01.xml [xml_file_02.xml ...[xml_file_nn.xml]]]
 
 Valid XML structure
 <code>
