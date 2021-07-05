@@ -1,0 +1,15 @@
+{
+  "summary": {
+    "title": "mobapp"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "mobapp",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
